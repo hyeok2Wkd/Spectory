@@ -18,17 +18,17 @@
 
 ### #앱 UI
 
-![1](C:\Users\SAMSUNG\OneDrive\바탕 화면\Hyeok\Study\VM\JitsiSetting\1.jpg)
+![image](https://user-images.githubusercontent.com/99118233/177165935-0ef88ba4-887e-43a3-b79d-ad26a2cc6b9c.png)
 
 <메인 화면, 로그인 화면, 회원가입 화면>
 
 
 
-![2](C:\Users\SAMSUNG\OneDrive\바탕 화면\Hyeok\Study\VM\JitsiSetting\2.jpg)
+![image](https://user-images.githubusercontent.com/99118233/177165945-51a84583-7330-4979-b8cb-b3431beefc1c.png)
 
 <경험 요약 화면, 경험 작성 화면, 작성 글 수정화면>
 
-![3](C:\Users\SAMSUNG\OneDrive\바탕 화면\Hyeok\Study\VM\JitsiSetting\3.jpg)
+![image](https://user-images.githubusercontent.com/99118233/177165962-c938119d-3500-4fa6-a800-1ce0e0ab9e69.png)
 
 <경험 정렬 형태의 리스트 화면, 프로필 화면, 프로필 설정 화면>
 
@@ -38,13 +38,13 @@
 
 ### #ERD
 
-![4](C:\Users\SAMSUNG\OneDrive\바탕 화면\Hyeok\Study\VM\JitsiSetting\4.jpg)
+![image](https://user-images.githubusercontent.com/99118233/177165972-18508d99-6e59-4309-b754-58ad0aad5472.png)
 
 
 
 ### #기능 명세서
 
-![5](C:\Users\SAMSUNG\OneDrive\바탕 화면\Hyeok\Study\VM\JitsiSetting\5.jpg)
+![image](https://user-images.githubusercontent.com/99118233/177166004-b371a226-5fc7-4837-9a3b-17d705460cd2.png)
 
 
 
